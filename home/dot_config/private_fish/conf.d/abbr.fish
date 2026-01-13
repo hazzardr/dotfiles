@@ -1,16 +1,18 @@
 # common
 abbr ll eza -l --header
 abbr lt eza -l --header --tree
-alias lz="lazygit"
+abbr cat bat
+# tools
+abbr chz chezmoi
 
 # pnpm
-alias pn="pnpm"
-alias px="pnpm dlx"
+abbr pn pnpm
+abbr px pnpm dlx
 
 # ansible 
-alias ap='uvx ansible-playbook'
-alias av="uvx ansible-vault"
-alias ag="uvx ansible-galaxy"
+abbr ap "uvx ansible-playbook"
+abbr av "uvx ansible-vault"
+abbr ag "uvx ansible-galaxy"
 
 # k8s
 abbr k kubectl
