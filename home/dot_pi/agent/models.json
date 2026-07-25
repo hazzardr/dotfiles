@@ -1,0 +1,14 @@
+{
+     "providers": {
+       "llama-swap": {
+         "baseUrl": "https://prismo.brihome.me/v1",
+         "api": "openai-completions",
+         "apiKey": "sk-no-key-required",
+         "models": [
+           { "id": "qwen36-code" },
+           { "id": "qwen36-code-xl" },
+           { "id": "qwen36-moe" }
+         ]
+       }
+     }
+   }
