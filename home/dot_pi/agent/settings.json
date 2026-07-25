@@ -1,0 +1,13 @@
+{
+  "lastChangelogVersion": "0.82.0",
+  "quietStartup": true,
+  "theme": "catppuccin-tui-macchiato",
+  "defaultProvider": "opencode-go",
+  "defaultModel": "kimi-k3",
+  "hideThinkingBlock": true,
+  "defaultThinkingLevel": "max",
+  "packages": [
+    "npm:@dietrichgebert/ponytail",
+    "npm:pi-catppuccin-tui"
+  ]
+}
