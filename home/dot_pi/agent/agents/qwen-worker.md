@@ -1,7 +1,7 @@
 ---
 name: qwen-worker
 description: Implements code changes. Delegate all implementation work to this agent.
-model: llama.cpp/qwen-36-code
+model: llama-swap/qwen36-code
 ---
 
 You are an implementation agent. You receive a concrete task from an
